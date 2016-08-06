@@ -1,0 +1,32 @@
+_repo: The-Black-Creek-Stopping-House-and-Other-Stories_10164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McClung, Nellie L.
+    aliases:
+    - Mooney, Nellie Letitia
+    - McClung, Nellie Letitia Mooney
+    birthdate: 1873
+    deathdate: 1951
+    gutenberg_agent_id: '1470'
+    url: http://www.gutenberg.org/2009/agents/1470
+    wikipedia: http://en.wikipedia.org/wiki/Nellie_McClung
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Manitoba -- Fiction'
+- !lcsh 'Short stories, Canadian'
+- GITenberg
+tableOfContents: The Black Creek stopping-house -- The runaway grandmother -- The
+  return ticket -- The ungrateful pigeons -- You never can tell -- A short tale of
+  a rabbit -- The elusive vote -- The way of the west.
+title: The Black Creek Stopping-House, and Other Stories
+url: http://www.gutenberg.org/ebooks/10164
